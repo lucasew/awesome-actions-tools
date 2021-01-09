@@ -1,4 +1,5 @@
-# awesome-actions-tools
+# Awesome GitHub Actions Tools
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Tools using the github actions infrastructure as its environment
 
